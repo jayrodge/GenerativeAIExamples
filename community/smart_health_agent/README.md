@@ -52,8 +52,8 @@ All agents communicate through a LangGraph orchestration system running on Cloud
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jayrodge/ai-agents/smart_health_agent.git
-   cd ai-agents/smart_health_agent
+   git clone https://github.com/NVIDIA/GenerativeAIExamples.git
+   cd GenerativeAIExamples/community/smart_health_agent
    ```
 
 2. Install dependencies:
